@@ -1,6 +1,5 @@
 ![Foto](./assets/Foto.jpeg)
 
-Bienvenidos a
 # Buenas, soy Abel García
 
 Soy de Hurlingham, nací en Morón, lugar donde estudie informatica en la EET 6 "Chacabuco".
